@@ -19,7 +19,7 @@ const Education = () => {
       location: "Punjab, India"
     },
     {
-      degree: "Secondary (10th)",
+      degree: "Matriculation (10th)",
       college: "Lawrence High School, Amritsar",
       year: "2020 - 2021",
       gpa: "93.8%",
